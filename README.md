@@ -3,7 +3,7 @@
 Este proyecto permite generar aplicaciones Restful mediante la definicion de un modelo de datos
 
 
-# Instalacion
+### Instalacion
 
 Con permisos de administrador ejecute:
 
@@ -23,7 +23,7 @@ Modifique su archivo de .bashrc y agregue la siguiente linea:
 source /opt/oasgen/bootstrap
 ```
 
-# Uso
+### Uso
 
 Con esto tendrá disponible el generador el cual podrá ejecutar como:
 
