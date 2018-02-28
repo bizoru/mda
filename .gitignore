@@ -1,4 +1,5 @@
 srcgen/*
 entities/*
+tool/src/entities/*
 *.pyc
 .DS_Store
